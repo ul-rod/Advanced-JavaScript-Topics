@@ -1,6 +1,9 @@
-# Advanced-JavaScript-Topics
+# Advanced-JavaScript-Topics: [Udemy](https://www.udemy.com/)
 
-[Udemy](https://www.udemy.com/)
+**Note:** These are the files that I created while going through the online training course. I learned a lot and thought I would share this info with my teammates at [UL Solutions](https://www.ul.com/).
+
+
+## Course Description:
 
 In Depth JavaScript Training for Mastering Important Patterns, the Power of Functions, OOP Concepts, JavaScript Projects
 
